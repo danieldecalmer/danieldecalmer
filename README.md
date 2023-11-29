@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @danieldecalmer
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Software Engineering at Griffith
+- 📫 How to reach me: danieldecalmer@gmail.com
